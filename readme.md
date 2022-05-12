@@ -1,8 +1,10 @@
 commit inicial
 
-alteração 3
+alteração 2
 
-branch atualizada com GIT MERGE
+
+Branch atualizada com GIT PULL
+
 alteração 1
 
 alteração 5
